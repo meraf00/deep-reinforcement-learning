@@ -1,2 +1,3 @@
-# deep-reinforcement-learning
-Repository for learning and implementing RL algorithms
+# Deep Reinforcement Learning
+
+A repository for learning, implementing, and experimenting with Deep Reinforcement Learning (DRL) algorithms.
